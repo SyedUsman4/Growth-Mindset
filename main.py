@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from io import BytesIO
 
-st.set_page_config(page_title="📁 File Converter & Cleaner", layout="wide")
+st.set_page_config(page_title= "📁 File Converter & Cleaner", layout="wide")
 st.title("📁 File Converter & Cleaner")
 st.write("Upload your CSV or Excel Files to clean the data convert formats effortlessly🚀")
 
